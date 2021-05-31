@@ -1,0 +1,5 @@
+flask-backend/__pycache__
+flask-backend/project/__pycache__
+flask-backend/log/
+!flask-backend/log/.gitkeep
+flask-backend/session_key
